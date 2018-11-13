@@ -1,5 +1,5 @@
 <?php
-namespace lee\ModernPHP\Url;
+namespace lee\Lee\Url;
 class Scanner{
     /**
      * @var array 一个由url组成的数组
