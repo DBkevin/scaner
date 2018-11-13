@@ -1,6 +1,6 @@
 
 {
-    "name":"lee/scanners",
+    "name":"bazhahei/scanner",
     "description":"Scan URLs from a CSV file and report inaccessible URLs",
     "keywords": [
         "url",
@@ -31,7 +31,7 @@
     },
     "autoload": {
         "psr-4": {
-            "lee\\Lee\\":"src/"
+            "bazhahei\\Lee\\":"src/"
         }
     }
 
