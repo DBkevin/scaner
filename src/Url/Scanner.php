@@ -1,6 +1,6 @@
 <?php
 namespace lee\Lee\Url;
-class Scanner{
+class Scanners{
     /**
      * @var array 一个由url组成的数组
      */

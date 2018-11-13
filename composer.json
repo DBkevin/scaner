@@ -1,6 +1,6 @@
 
 {
-    "name":"modernphp/scanner",
+    "name":"lee/scanners",
     "description":"Scan URLs from a CSV file and report inaccessible URLs",
     "keywords": [
         "url",
