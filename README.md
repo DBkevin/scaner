@@ -1,2 +1,2 @@
 install
-  composer require bazhahei/scanner
+composer require bazhahei/scanner
